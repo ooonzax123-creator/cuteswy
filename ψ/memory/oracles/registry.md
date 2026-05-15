@@ -7,6 +7,7 @@
 | ชื่อ | Role | Path | Born | Status |
 |------|------|------|------|--------|
 | cuteswy | Oracle Manager | C:\Users\trex3\cuteswy | 2026-05-16 | Active |
+| jimmy | Post-Production / Timeline Editor | C:\Users\trex3\jimmy-oracle | 2026-05-16 | Active |
 
 ## Creating a New Oracle
 
